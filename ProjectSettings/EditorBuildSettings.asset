@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MixedRealityToolkit.Examples/Demos/Input/Scenes/DragAndDropExample.unity
+    guid: 57366e4525232564a84d129d023891cd
+  m_configObjects: {}
